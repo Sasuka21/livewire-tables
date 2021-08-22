@@ -1,0 +1,18 @@
+{
+    "name": "superhiro/tableslivewire",
+    "description": "Learn demo use table in livewire laravel",
+    "autoload": {
+        "psr-4": {
+            "Superhiro\\TablesLivewire\\": "src/",
+            "Superhiro\\App\\": "src/app/",
+            "Superhiro\\Views\\": "src/resources/views/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Shiro",
+            "email": "superhirodev@gmail.com"
+        }
+    ],
+    "require": {}
+}
